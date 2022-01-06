@@ -53,8 +53,6 @@ And the sources related to the test code are in the test file, which are very im
         - assertj : Library to help test codes to write easier
         - spring-test : Support for Spring integration test.
 
-<View Settings>
-     
     
     
 Ok! It's all done for starting Spring! Thank you !!
